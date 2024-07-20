@@ -1,6 +1,6 @@
 # CODE
 
-Code is a developer-centric social media platform aimed at sharing, discovering, and collaborating on frontend components. Key features include component library integration with version control and live demos, advanced search and tagging, user interaction through ratings and reviews, and a follow system. Future enhancements will include code snippet sharing and component verification for quality assurance. The platform also offers community building through forums, chat rooms, and tutorials, and personalized portfolio pages for users to showcase their projects, components, and professional details.
+Code is a developer-centric social media platform where users can share, discover, collaborate on frontend components, and showcase their projects and skills
 
 ## Getting Started
 
@@ -37,7 +37,7 @@ Instructions on how to get a copy of the project up and running on your local ma
 
 ## Prerequisites
 
-- Next js
+- Node js
 
 ## How to contribute
 
@@ -74,5 +74,5 @@ For any inquiries or issues, please open an issue on GitHub or reach out to us u
 
 ---
 
-Thank you for using our project! We hope you find it useful and easy to work with. If you have any questions, feedback, or contributions, feel free to open an issue or submit a pull request.
+We hope you find it useful and easy to work with. If you have any questions, feedback, or contributions, feel free to open an issue or submit a pull request.
 
